@@ -7,5 +7,5 @@ while heittojen_maara > 0:
     heittojen_maara = heittojen_maara - 1
 print(silmaluvut)
 for heitot in silmaluvut:
-    summa = summa + int(n)
+    summa = summa + int()
 print(f" Lukujen summa on {summa}")
